@@ -4,6 +4,6 @@ episode,reward
 3,0.00
 4,0.00
 5,0.00
-
-mean_reward,0.0
-std_reward,0.0
+,
+mean_reward,0.00
+std_reward,0.00
