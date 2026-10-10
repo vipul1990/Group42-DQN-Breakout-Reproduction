@@ -1,7 +1,8 @@
-metric,value
-training_frames,50000
-training_episodes,275
-maximum_training_episode_reward,5.0
-evaluation_episodes,5
-mean_evaluation_reward,0.0
-device,cuda
+metric, value
+training_frames, 50000
+training_episodes, 275
+maximum_training_episode_reward, 5.0
+evaluation_episodes, 5
+mean_evaluation_reward, 0.0
+device, cuda
+ss
